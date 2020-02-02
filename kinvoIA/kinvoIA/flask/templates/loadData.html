@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>LOAD DATA</title>
+    </head>
+    <body>
+        <h3>{% for entidade in entidades %}</h3>
+            {% for ent in entidade %}
+            <tr>
+                <td>
+                    {{ent}}
+                </td>
+            </tr>
+            {% endfor %}
+            {% endfor %}
+    </body>
+</html>
