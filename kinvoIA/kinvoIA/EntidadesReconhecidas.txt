@@ -1,0 +1,137 @@
+{
+    "entidades": [
+        {
+            "entidade": "B3",
+            "Noticia Pertencente": 1,
+            "label": "MISC"
+        },
+        {
+            "entidade": "BM&F",
+            "Noticia Pertencente": 1,
+            "label": "MISC"
+        },
+        {
+            "entidade": "Bovespa",
+            "Noticia Pertencente": 1,
+            "label": "ORG"
+        },
+        {
+            "entidade": "B3",
+            "Noticia Pertencente": 3,
+            "label": "MISC"
+        },
+        {
+            "entidade": "ANBIMA",
+            "Noticia Pertencente": 3,
+            "label": "ORG"
+        },
+        {
+            "entidade": "Congresso Brasileiro de Mercado de Capitais 2020",
+            "Noticia Pertencente": 3,
+            "label": "LOC"
+        },
+        {
+            "entidade": "B3",
+            "Noticia Pertencente": 5,
+            "label": "MISC"
+        },
+        {
+            "entidade": "B3",
+            "Noticia Pertencente": 7,
+            "label": "MISC"
+        },
+        {
+            "entidade": "BM&F",
+            "Noticia Pertencente": 7,
+            "label": "MISC"
+        },
+        {
+            "entidade": "Bovespa",
+            "Noticia Pertencente": 7,
+            "label": "ORG"
+        },
+        {
+            "entidade": "FII VECTIS",
+            "Noticia Pertencente": 9,
+            "label": "MISC"
+        },
+        {
+            "entidade": "B3",
+            "Noticia Pertencente": 9,
+            "label": "MISC"
+        },
+        {
+            "entidade": "FII SUPERNOV",
+            "Noticia Pertencente": 11,
+            "label": "MISC"
+        },
+        {
+            "entidade": "B3",
+            "Noticia Pertencente": 11,
+            "label": "MISC"
+        },
+        {
+            "entidade": "Ibovespa",
+            "Noticia Pertencente": 13,
+            "label": "PER"
+        },
+        {
+            "entidade": "FII",
+            "Noticia Pertencente": 15,
+            "label": "MISC"
+        },
+        {
+            "entidade": "REAL",
+            "Noticia Pertencente": 15,
+            "label": "MISC"
+        },
+        {
+            "entidade": "B3",
+            "Noticia Pertencente": 15,
+            "label": "MISC"
+        },
+        {
+            "entidade": "B3",
+            "Noticia Pertencente": 17,
+            "label": "MISC"
+        }
+    ],
+    "Data": [
+        {
+            "Data da Noticia": "31/01/2020",
+            "Noticia Pertencente": 1
+        },
+        {
+            "Data da Noticia": "28/01/2020",
+            "Noticia Pertencente": 3
+        },
+        {
+            "Data da Noticia": "28/01/2020",
+            "Noticia Pertencente": 5
+        },
+        {
+            "Data da Noticia": "28/01/2020",
+            "Noticia Pertencente": 7
+        },
+        {
+            "Data da Noticia": "28/01/2020",
+            "Noticia Pertencente": 9
+        },
+        {
+            "Data da Noticia": "24/01/2020",
+            "Noticia Pertencente": 11
+        },
+        {
+            "Data da Noticia": "23/01/2020",
+            "Noticia Pertencente": 13
+        },
+        {
+            "Data da Noticia": "22/01/2020",
+            "Noticia Pertencente": 15
+        },
+        {
+            "Data da Noticia": "21/01/2020",
+            "Noticia Pertencente": 17
+        }
+    ]
+}

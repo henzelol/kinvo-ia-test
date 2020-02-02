@@ -1,0 +1,20 @@
+[
+    "31/01/2020",
+    "B3 registra recorde no total geral de negócios nos segmentos BM&F e Bovespa",
+    "28/01/2020",
+    "B3 e ANBIMA realizam Congresso Brasileiro de Mercado de Capitais 2020",
+    "28/01/2020",
+    "Estoque de títulos de dívida corporativa na B3 cresce quase 28% em 2019",
+    "28/01/2020",
+    "B3 registra recorde no total geral de negócios nos segmentos BM&F e Bovespa",
+    "28/01/2020",
+    "Cotas do FII VECTIS começam a ser negociadas na B3",
+    "24/01/2020",
+    "Cotas do FII SUPERNOV começam a ser negociadas na B3",
+    "23/01/2020",
+    "Ibovespa registra novo recorde e marca 119.527 pontos",
+    "22/01/2020",
+    "Cotas do FII TRX REAL começam a ser negociadas na B3",
+    "21/01/2020",
+    "Cotas do FII BRE VIC começam a ser negociadas na B3"
+]
