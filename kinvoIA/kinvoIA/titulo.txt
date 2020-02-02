@@ -1,0 +1,11 @@
+[
+    "Recorde",
+    "Mercado de Capitais",
+    "Títulos de renda fixa",
+    "Recordes",
+    "Fundos de Investimento",
+    "Fundos de Investimento",
+    "Ibovespa",
+    "Fundos de Investimento",
+    "Fundos de Investimento"
+]
